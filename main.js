@@ -1,13 +1,13 @@
 // Image paths used across the site
 var IMG={
-  "r1": "assets/r1.jpg",
-  "r2": "assets/r2.jpg",
-  "ind": "assets/ind.jpg",
-  "chg": "assets/chg.jpg",
-  "fb": "assets/fb.jpg",
-  "cr": "assets/cr.jpg",
-  "gp": "assets/gp.jpg",
-  "logo": "assets/logo.png"
+  "r1": "r1.jpg",
+  "r2": "r2.jpg",
+  "ind": "ind.jpg",
+  "chg": "chg.jpg",
+  "fb": "fb.jpg",
+  "cr": "cr.jpg",
+  "gp": "gp.jpg",
+  "logo": "logo.png"
 };
 
 // Set src for every <img data-i="key">
